@@ -6,6 +6,7 @@
       </li>
       <router-link to="/" tag="li" active-class="active-link" exact><a>Home</a></router-link>
       <router-link to="/customers" tag="li" active-class="active-link" ><a>Customer DataTable</a></router-link>
+      <router-link to="/customers/visualization" tag="li" active-class="active-link" ><a>Customer Data Visualization</a></router-link>
     </ul>
   </nav>
 </template>
