@@ -42,28 +42,10 @@ ul.unstyled {
 
 .center {
     margin: auto;
-    width: 50%;
-    border: 3px solid #4f878d;
+    width: 80%;
     padding: 10px;
     text-align: center;
 }
 
-
-pre {
-    background: #f4f4f4;
-    border: 1px solid #ddd;
-    border-left: 3px solid #f36d33;
-    color: #666;
-    page-break-inside: avoid;
-    font-family: monospace;
-    font-size: 15px;
-    line-height: 1.6;
-    margin-bottom: 1.6em;
-    max-width: 100%;
-    overflow: auto;
-    padding: 1em 1.5em;
-    display: block;
-    word-wrap: break-word;
-}
 
 </style>
