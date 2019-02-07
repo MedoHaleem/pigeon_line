@@ -45,6 +45,7 @@ ul.unstyled {
     width: 80%;
     padding: 10px;
     text-align: center;
+    color: #34495e;
 }
 
 
