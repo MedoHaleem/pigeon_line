@@ -11,10 +11,9 @@
 
 <script>
   import {ClientTable, Event} from 'vue-tables-2';
-  import settings from './settings'
+  import Settings from './Settings'
   import customersData from './customers'
   import Vue from 'vue';
-  import Settings from "@/components/Customer/settings";
 
   Vue.use(ClientTable, {}, false, 'bootstrap4', 'default');
   export default {
