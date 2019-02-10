@@ -7,7 +7,6 @@
       <multiselect :options="provinces"
                    v-model="selectedProvince"
                    :close-on-select="true"
-                   :clear-on-select="false"
                    placeholder="Select a Province">
       </multiselect>
     </div>

@@ -1,13 +1,13 @@
 <template>
-  <div>
+  <div class="center">
     <h1>Home</h1>
-    <p>Here is some information. This is the home page</p>
+    <p>Welcome To Pigeon, You can access the customer data through the navigation bar or you can check some pretty Data Visualization.</p>
   </div>
 </template>
 
 <script>
 export default {
-  name: 'Home', // this is the name of the component
+  name: 'Home'
 };
 </script>
 <style>
